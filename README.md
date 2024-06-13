@@ -7,3 +7,5 @@ Natural Language Processing, Reviews on 21 common drugs; Unsupervised learning a
 * Additionally, unsupervised learning techniques were employed to cluster the data according to common medical conditions within the dataset.
 
 You can download the clean dataset on [Kaggle](https://www.kaggle.com/datasets/shanegerami/drug-reviews)
+
+Please upvote or leave suggestions:)
