@@ -5,3 +5,5 @@ Natural Language Processing, Reviews on 21 common drugs; Unsupervised learning a
 * By applying sentiment analysis, I was able to categorize these reviews and extract valuable insights regarding patient experiences.
 * A custom fine-tuned model was developed specifically for analyzing sentiment in medical reviews.
 * Additionally, unsupervised learning techniques were employed to cluster the data according to common medical conditions within the dataset.
+
+You can download the clean dataset on [Kaggle](https://www.kaggle.com/datasets/shanegerami/drug-reviews)
